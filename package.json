@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "dev": "next dev",
+    "server": "node server.js"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "express": "latest"
+  }
+}
